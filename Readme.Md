@@ -1,9 +1,7 @@
 # Selenium-web-scraping-boilerplate.
 ![enter image description here](https://img.shields.io/badge/Selenium-boilerplate-green&logo=appveyor)
 ![enter image description here](https://img.shields.io/badge/Python-3.x-green&logo=appveyor)
-<style type="text/css">
-   
-</style>
+
 
 
 Clone this repo and start writing your scraper
